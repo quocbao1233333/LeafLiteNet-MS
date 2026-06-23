@@ -1,0 +1,11 @@
+D:\Visualstudiocode_Projects\01_DeepLearningProject_LeafClassification
+│
+├── 01_DeepLearningProject_Code.py
+│
+├── data-clc-classification
+│   ├── Class01
+│   ├── Class02
+│   ├── Class03
+│   └── Class04
+│
+└── outputs
